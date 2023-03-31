@@ -10,7 +10,7 @@
 ```2)Extract the zip file and run main.ipynb by using your jupyter notebook```
 
 ## Making changes in the main.ipynb:
-***1)You need to provide your usis email id and password in the following lines(The libaris used in the notebook are all official libraris from python. So you do not need to worry about your email and password getting stolen by anyone)***
+```(i)You need to provide your usis Email ID and password in the following lines(The libaries used in the notebook are all official libraries from python. So you do not need to worry about your Email and password getting stolen by anyone)```
 ***2)Change in the line number 30 in the second cell of the notebook. Where you need to provide your email id replacing sample@gmail.com***
 ![image](https://user-images.githubusercontent.com/67923321/229041957-f7e89f55-2220-42a0-aff9-0e3051fbcd21.png)
 ***2)Change in the line number 30 in the second cell of the notebook. Where you need to provide your email id replacing sample@gmail.com***
