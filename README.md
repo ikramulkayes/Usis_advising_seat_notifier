@@ -3,7 +3,7 @@
 
 ## Downloading files on your PC:
 
-```1)First you need to download the zip file in the following way```
+1)```Firstly, you need to download the zip file in the following way```
 
 <img src="gifs/1.gif" alt="Alt text" title="Optional title">
 
