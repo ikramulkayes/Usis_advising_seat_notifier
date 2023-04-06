@@ -26,4 +26,7 @@
 ![image](https://user-images.githubusercontent.com/67923321/230076026-945dab49-50b2-4307-bcaa-89b3c029db62.png) <br>
 (vi)```Replace "Ikramul.Kayes@studentambassadors.com","Tasmina123" , with the mail notifying mail information "email, password".```<br>
 ![image](https://user-images.githubusercontent.com/67923321/230076590-77cc9578-cf51-40e1-b07f-a90958786cb6.png) <br>
-(vii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the mail notifying mail you used in the previous (vi) part and use the mail you want to get notify to..```<br>
+(vii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the notifying mail id you used in the previous (vi) part and use the mail you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
+![image](https://user-images.githubusercontent.com/67923321/230278947-7b439158-0162-4639-9495-57c187abfbb5.png)<br>
+
+
