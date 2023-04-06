@@ -5,6 +5,7 @@
 
 1)```Firstly, you need to download the zip file in the following way```
 
+
 <img src="gifs/1.gif" alt="Alt text" title="Optional title">
 
 ```2)Extract the zip file and run main.ipynb by using your jupyter notebook```
