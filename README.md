@@ -22,12 +22,17 @@
 ![image](https://user-images.githubusercontent.com/67923321/230071760-4bfade74-98dc-4223-b6db-7bce694fb1f1.png)
 
 (iv)```Replace the CSE110 with the course you want select for instance CSE330, ENG101 etc```<br>
+
 ![image](https://user-images.githubusercontent.com/67923321/230074408-5610a8ac-ef57-439d-82f4-e948e6e57d18.png) <br>
+
 (v)```Replace the 20 with the number of the section where you want your seat in.```
 ![image](https://user-images.githubusercontent.com/67923321/230076026-945dab49-50b2-4307-bcaa-89b3c029db62.png) <br>
 (vi)```Replace "Ikramul.Kayes@studentambassadors.com","Tasmina123" , with the mail notifying mail information "email, password".```<br>
+
 ![image](https://user-images.githubusercontent.com/67923321/230076590-77cc9578-cf51-40e1-b07f-a90958786cb6.png) <br>
+
 (vii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the notifying mail id you used in the previous (vi) part and use the mail you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
+
 ![image](https://user-images.githubusercontent.com/67923321/230278947-7b439158-0162-4639-9495-57c187abfbb5.png)<br>
 
 
