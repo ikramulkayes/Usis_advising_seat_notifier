@@ -29,14 +29,14 @@
 (v)```In line 89, follow the steps of the following [video](https://www.youtube.com/watch?v=PrC0EEjlkis), starting from 3:34 to 5:30```<br>
 ![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/7d53e84a-82a4-459d-bfd6-a2a52912f59d)<br>
 
-(vi)```Replace the 20 with the number of the section where you want your seat in.```
-![image](https://user-images.githubusercontent.com/67923321/230076026-945dab49-50b2-4307-bcaa-89b3c029db62.png) <br>
-(vii)```Replace "Ikramul.Kayes@studentambassadors.com","Tasmina123" , with the mail notifying mail information "email, password".```<br>
+(vi)```In line 94, follow the steps shown in the following [video](https://www.youtube.com/watch?v=PrC0EEjlkis), starting from 5:31 to 5:16.```<br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/cff033e3-a610-49c6-b7d1-c01addb98ba5) <br>
+(vii)```In line 115, replace "My_microsoft_email@outlook.com","Password_of_my_outlook_account" , with the email adress and password of the notifying mail just like the following "email, password".```<br>
 
-![image](https://user-images.githubusercontent.com/67923321/230076590-77cc9578-cf51-40e1-b07f-a90958786cb6.png) <br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/15863f8b-264b-4d23-b5ea-1873b60e91d8) <br>
 
-(viii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the notifying mail id you used in the previous (vi) part and use the mail you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
+(viii)```In line 117, replace "My_microsoft_email@outlook.com","my_personal_email@gmail.com" , with the notifying mail id you used in the previous (vii) part and provide  the email adress where you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
 
-![image](https://user-images.githubusercontent.com/67923321/230278947-7b439158-0162-4639-9495-57c187abfbb5.png)<br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/d901b72a-767e-4c0f-bbba-576c5c1edd53)
 
 
