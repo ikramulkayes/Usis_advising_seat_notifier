@@ -1,6 +1,11 @@
 # Usis Advising Seat Notifier
 <p>Hello Everyone, this notebook is an ease to your advising nightmare. By using this notebook you do not have to spend hours in checking whether your desirable section has an empty slot or not. The moment a seat will be empty, you will recieve an notification through mail in your device. For this, you need to fulfill some criteria. Follow the steps one by one in your own device.</p><br>
 
+## Prerequisites:
+1)```Google chrome```<br>
+2)```Jupyter notebook```<br>
+3)```Winrar```<br>
+
 ## Downloading files on your PC:
 
 1)```Firstly, you need to download the zip file in the following way```
