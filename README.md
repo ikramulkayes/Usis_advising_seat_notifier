@@ -11,27 +11,31 @@
 ```2)Extract the zip file and run main.ipynb by using your jupyter notebook```
 
 ## Making changes in the main.ipynb:
-(i)```You need to provide your usis Email ID and password in the following lines(The libaries used in the notebook are all official libraries from python. So, you need not to worry about your Email and password getting stolen by anyone)<br>
-(ii)Change in the line number 30 in the second cell of the notebook. Where you need to provide your email id replacing sample@gmail.com```
+(i)```You need to provide your usis Email ID and password in the following lines(The libaries used in the notebook are all official libraries from python. So, you need not to worry about your Email and password getting stolen by anyone)```<br>
+(ii)```Change in the line number 29 in the second cell of the notebook. Where you need to provide your USIS login email id replacing "My_usis_account@gmail.com"```<br>
 
-![image](https://user-images.githubusercontent.com/67923321/229041957-f7e89f55-2220-42a0-aff9-0e3051fbcd21.png)
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/ea828616-f9de-437d-9440-18fef9fa244d)<br>
 
 
 
-(iii) ```Change in the line number 35 in the second cell of the notebook. Where you need to provide your Password replacing myPassword```
-![image](https://user-images.githubusercontent.com/67923321/230071760-4bfade74-98dc-4223-b6db-7bce694fb1f1.png)
 
-(iv)```Replace the CSE110 with the course you want select for instance CSE330, ENG101 etc```<br>
+(iii) ```Change in the line number 34 in the second cell of the notebook. Where you need to provide your Password replacing "My_Usis_Password"```<br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/06626742-5afb-4041-9636-96fe7a34b253)<br>
 
-![image](https://user-images.githubusercontent.com/67923321/230074408-5610a8ac-ef57-439d-82f4-e948e6e57d18.png) <br>
+(iv)```In line 74, replace the CSE110 with the course you want select for instance CSE330, ENG101 etc```<br>
 
-(v)```Replace the 20 with the number of the section where you want your seat in.```
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/bf31b130-e6f3-47bb-9839-0155656e6f95) <br>
+
+(v)```In line 89, follow the steps of the following [video](https://www.youtube.com/watch?v=PrC0EEjlkis), starting from 3:34 to 5:30```<br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/7d53e84a-82a4-459d-bfd6-a2a52912f59d)<br>
+
+(vi)```Replace the 20 with the number of the section where you want your seat in.```
 ![image](https://user-images.githubusercontent.com/67923321/230076026-945dab49-50b2-4307-bcaa-89b3c029db62.png) <br>
-(vi)```Replace "Ikramul.Kayes@studentambassadors.com","Tasmina123" , with the mail notifying mail information "email, password".```<br>
+(vii)```Replace "Ikramul.Kayes@studentambassadors.com","Tasmina123" , with the mail notifying mail information "email, password".```<br>
 
 ![image](https://user-images.githubusercontent.com/67923321/230076590-77cc9578-cf51-40e1-b07f-a90958786cb6.png) <br>
 
-(vii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the notifying mail id you used in the previous (vi) part and use the mail you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
+(viii)```Replace "Ikramul.Kayes@studentambassadors.com","ikramul.kayesgg@gmail.com" , with the notifying mail id you used in the previous (vi) part and use the mail you want to get notified to (your personal mail) the format should be like this notifyingmail@microsoft.com, mypersonalmail@gmail.com.```<br>
 
 ![image](https://user-images.githubusercontent.com/67923321/230278947-7b439158-0162-4639-9495-57c187abfbb5.png)<br>
 
