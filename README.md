@@ -2,6 +2,7 @@
 <p>Hello Everyone, this notebook is an ease to your advising nightmare. By using this notebook you do not have to spend hours in checking whether your desirable section has an empty slot or not. The moment a seat will be empty, you will recieve an notification through mail in your device. For this, you need to fulfill some criteria. Follow the steps one by one in your own device.</p><br>
 
 ## Prerequisites:
+The following softwares must be installed in your machine. After installing all of them you are good to go. <br>
 1)```Google chrome```<br>
 2)```Jupyter notebook```<br>
 3)```Winrar```<br>
