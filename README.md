@@ -6,7 +6,7 @@ The following softwares must be installed in your machine. After installing all 
 1)```Google chrome```<br>
 2)```Jupyter notebook```<br>
 3)```Winrar```<br>
-4) ```Outlook Email```<br>
+
 
 ## Downloading files on your PC:
 
@@ -38,7 +38,7 @@ The following softwares must be installed in your machine. After installing all 
 
 (vi)```In line 94, follow the steps shown in the following [video](https://www.youtube.com/watch?v=PrC0EEjlkis), starting from 5:31 to 5:16.```<br>
 ![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/cff033e3-a610-49c6-b7d1-c01addb98ba5) <br>
-(vii)```In line 115, replace "My_microsoft_email@outlook.com","Password_of_my_outlook_account" , with the email adress and password of the notifying mail just like the following "email, password".```<br>
+(vii)```In line 115, replace "My_microsoft_email@outlook.com","Password_of_my_outlook_account" , with the email adress and password of the notifying mail(Outlook Email must) just like the following "email, password".```<br>
 
 ![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/15863f8b-264b-4d23-b5ea-1873b60e91d8) <br>
 
