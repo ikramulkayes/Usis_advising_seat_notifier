@@ -6,6 +6,7 @@ The following softwares must be installed in your machine. After installing all 
 1)```Google chrome```<br>
 2)```Jupyter notebook```<br>
 3)```Winrar```<br>
+4) ```Outlook Email```<br>
 
 ## Downloading files on your PC:
 
