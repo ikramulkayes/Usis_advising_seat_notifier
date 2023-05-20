@@ -18,7 +18,7 @@ The following softwares must be installed in your machine. After installing all 
 ```2)Extract the zip file and run main.ipynb by using your jupyter notebook```
 
 ## Making changes in the main.ipynb:
-(i)```You need to provide your usis Email ID and password in the following lines(The libaries used in the notebook are all official libraries from python. So, you need not to worry about your Email and password getting stolen by anyone)```<br>
+(i)You need to provide your usis Email ID and password in the following lines(The libaries used in the notebook are all official libraries from python. So, you need not to worry about your Email and password getting stolen by anyone)<br>
 (ii)```Change in the line number 29 in the second cell of the notebook. Where you need to provide your USIS login email id replacing "My_usis_account@gmail.com"```<br>
 
 ![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/ea828616-f9de-437d-9440-18fef9fa244d)<br>
