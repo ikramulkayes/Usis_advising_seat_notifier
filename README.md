@@ -22,7 +22,7 @@ The following softwares must be installed in your machine. After installing all 
 
 (ii)Change in the line number 29 in the second cell of the notebook. Where you need to provide your USIS login email id replacing "My_usis_account@gmail.com"<br>
 
-![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/assets/67923321/ea828616-f9de-437d-9440-18fef9fa244d)<br>
+![image](https://github.com/ikramulkayes/Usis_advising_seat_notifier/blob/main/gifs/Screenshot%202023-05-20%20at%2011.28.56%20PM.png)<br>
 
 
 
